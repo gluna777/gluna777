@@ -3,8 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luna-procopio-tec/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gluna777&show_icons=true&theme=transparent)
-
 ### Tecnologias utilizadas no cotidiano
 <div style="display: inline_block"> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
